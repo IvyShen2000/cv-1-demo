@@ -14,7 +14,7 @@
 #div1 {
   position: fixed;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-20%);
   top: 20px;
 }
 
@@ -47,4 +47,4 @@
   }
 }
 
-/*# sourceMappingURL=index.de60a1d7.css.map */
+/*# sourceMappingURL=index.HASH_REF_f0918a547ace1733ebc251b0de60a1d7.css.map */

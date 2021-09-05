@@ -24,7 +24,7 @@
   position: absolute;
 }
 
-#div1::after {
+#div1::before {
   content: "";
   display: block;
   position: absolute;
@@ -46,5 +46,3 @@
     right: 0;
   }
 }
-
-/*# sourceMappingURL=index.de60a1d7.css.map */

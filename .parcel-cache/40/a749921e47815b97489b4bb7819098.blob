@@ -14,7 +14,7 @@
 #div1 {
   position: fixed;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-20%);
   top: 20px;
 }
 
@@ -46,5 +46,3 @@
     right: 0;
   }
 }
-
-/*# sourceMappingURL=index.de60a1d7.css.map */

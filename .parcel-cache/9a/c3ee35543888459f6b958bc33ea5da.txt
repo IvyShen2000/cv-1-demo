@@ -1,0 +1,15 @@
+14
+36C:\Users\pc\Desktop\cv-1\src\main.js132752821055850187 0
+29C:\Users\pc\Desktop\cv-1\dist132752823942455665 1
+28C:\Users\pc\Desktop\cv-1\src132752788702378414 1
+39C:\Users\pc\Desktop\cv-1\src\index.html132752283930031872 0
+51C:\Users\pc\Desktop\cv-1\dist\index.bd78eeec.js.map132752823279667154 0
+47C:\Users\pc\Desktop\cv-1\dist\index.bd78eeec.js132752823279567402 0
+38C:\Users\pc\Desktop\cv-1\src\style.css132752823278642345 0
+48C:\Users\pc\Desktop\cv-1\dist\index.825b0e06.css132752823942335161 0
+52C:\Users\pc\Desktop\cv-1\dist\index.825b0e06.css.map132752823942415242 0
+48C:\Users\pc\Desktop\cv-1\dist\index.de60a1d7.css132752823279557471 0
+52C:\Users\pc\Desktop\cv-1\dist\index.de60a1d7.css.map132752823279657148 0
+47C:\Users\pc\Desktop\cv-1\dist\index.ec21a9fa.js132752823942335161 0
+51C:\Users\pc\Desktop\cv-1\dist\index.ec21a9fa.js.map132752823942415242 0
+40C:\Users\pc\Desktop\cv-1\dist\index.html132752823942335161 0
